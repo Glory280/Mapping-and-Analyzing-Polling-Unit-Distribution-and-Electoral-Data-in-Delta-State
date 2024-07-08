@@ -18,10 +18,10 @@ To provide analysis of polling units in Delta State, I applied the following ski
 - Communication and Reporting
 
 ## Insights
-The following insights were gotten from studying the outliers in the dataset
+The following insights were obtained from studying the outliers in the dataset
 - There are notable outliers in the result section for parties PDP, APC and LP
 - In polling units where there are no accredited voters, there are recorded votes which is abnormal
-- Towns with more population had higher number of votes than villages with lesser populations
+- Towns with more population had a higher number of votes than villages with lesser populations
 
 ## Conclusion and Recommendations
 The presence of recorded votes in polling units with no accredited voters indicates significant data integrity issues. Immediate investigation and procedural improvements are necessary to ensure the accuracy of future elections. Significant outliers in the election results for PDP, APC, and LP suggest potential data issues or irregularities. A detailed review and verification process should be undertaken to ensure the accuracy and fairness of the results. The trend of higher votes in towns compared to villages reflects expected population dynamics. However, it is essential to review and potentially adjust resource allocation to ensure fairness in voting practices across different regions.
