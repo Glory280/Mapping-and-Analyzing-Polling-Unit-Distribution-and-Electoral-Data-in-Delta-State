@@ -1,5 +1,8 @@
 # Mapping and Analyzing Polling Unit Distribution and Electoral Data in Delta State
 
+![INEC](https://github.com/Glory280/Mapping-and-Analyzing-Polling-Unit-Distribution-and-Electoral-Data-in-Delta-State/assets/115431188/b90ef6cd-cb9e-46dd-b276-e70259524638)
+
+
 ## Executive Summary
 This project aims to analyze and enhance the operational efficiency of polling units in Delta State. Using geographical data and advanced data analysis techniques, I identified neighboring polling units, assessed the accuracy and integrity of result sheets, and provided actionable insights for improving the electoral process. This comprehensive analysis will support better decision-making, resource allocation, and strategic planning for future elections.
 
