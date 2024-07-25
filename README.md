@@ -21,11 +21,18 @@ To provide analysis of polling units in Delta State, I applied the following ski
 
 ## Insights
 The following insights were obtained from studying the outliers in the dataset
-- There are notable outliers in the result section for parties PDP, APC and LP
-- In polling units where there are no accredited voters, there are recorded votes which is abnormal
+- There are 151 polling units where there are no accredited voters but there are recorded votes which is abnormal
+- 540 polling units with a high number of corrected result sheets were identified
+- There are 139 polling units with no results recorded but has recorded number of accredited voters
 - Towns with more population had a higher number of votes than villages with lesser populations
 
-## Conclusion and Recommendations
-The presence of recorded votes in polling units with no accredited voters indicates significant data integrity issues. Immediate investigation and procedural improvements are necessary to ensure the accuracy of future elections. Significant outliers in the election results for PDP, APC, and LP suggest potential data issues or irregularities. A detailed review and verification process should be undertaken to ensure the accuracy and fairness of the results. The trend of higher votes in towns compared to villages reflects expected population dynamics. However, it is essential to review and potentially adjust resource allocation to ensure fairness in voting practices across different regions.
+## Recommendations
+- Investigate these 151 polling units to understand why there are results without any accredited voters. This could indicate data entry errors or electora malpractice. Proper verification processes should be put in place for future elections to avoid reoccurence.
+- Review the process of result sheet correction in these 540 polling units to identify common issues leading to corrections. Implement training programs for election officers to reduce errors and the need for corrections in future elections.
+- Investigate the 139 polling units where no results were recorded despite having accredited voters. Determine if there were issues with result transmission, data entry errors, or other anomalies that need addressing.
+- The trend of higher votes in towns compared to villages reflects expected population dynamics. However, it is essential to review and adjust resource allocation to ensure fairness in voting practices across different regions.
+
+## Conclusion
+Based on the insights obtained from the analysis, it is recommended to investigate the 151 polling units with results but no accredited voters to identify potential data entry errors or electoral malpracice. Review the 540 polling units with corrected result sheets to minimize errors through training, and examine the 139 units with accredited voters but no results for transmission issues or anomalies. Review and adjust resource allocation to ensure fairness in voting practices across different regions.
 
 
