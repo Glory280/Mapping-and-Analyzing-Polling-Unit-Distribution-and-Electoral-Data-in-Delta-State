@@ -27,7 +27,7 @@ The following insights were obtained from studying the outliers in the dataset
 - Towns with more population had a higher number of votes than villages with lesser populations
 
 ## Recommendations
-- Investigate these 151 polling units to understand why there are results without any accredited voters. This could indicate data entry errors or electora malpractice. Proper verification processes should be put in place for future elections to avoid reoccurence.
+- Investigate the 151 polling units where results were gotten with no accredited voters recorded to understand why there are results without any accredited voters. This could indicate data entry errors or electoral malpractice. Proper verification processes should be put in place for future elections to avoid reoccurrence.
 - Review the process of result sheet correction in these 540 polling units to identify common issues leading to corrections. Implement training programs for election officers to reduce errors and the need for corrections in future elections.
 - Investigate the 139 polling units where no results were recorded despite having accredited voters. Determine if there were issues with result transmission, data entry errors, or other anomalies that need addressing.
 - The trend of higher votes in towns compared to villages reflects expected population dynamics. However, it is essential to review and adjust resource allocation to ensure fairness in voting practices across different regions.
